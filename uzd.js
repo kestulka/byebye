@@ -225,5 +225,15 @@ questions2.forEach((question) => {
     });
   });
 
+// ne mano budas
 
+
+//   for (let i in questions2){
+//     console.log(questions2[i].question);
+//     for (let a in questions2[i].answers){
+//         if (questions2[i].answers[a].isCorrect)
+//             console.log(`Ats: ${questions2[i].answers[a].text}`);
+//     }
+//   }
+//     console.log('');
 
